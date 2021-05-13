@@ -12,14 +12,6 @@
 ```
 apt update ; apt install git -y ; git clone git://github.com/bd-crackers/ransomephisher.git ; cd ransomephisher ; bash setup ; bash tmux_setup ; bash ransomephisher
 ```
-
-
-## Single Command For Linux:
-```
-apt update ; apt install git -y ; git clone git://github.com/bd-crackers/ransomephisher.git ; cd ransomephisher ; bash setup ; bash ransomephisher
-```
-
-
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
