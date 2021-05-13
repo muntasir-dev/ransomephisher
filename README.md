@@ -3,10 +3,10 @@
 * `apt update`
 * `apt install git -y`
 * `git clone https://github.com/bd-crackers/ransomephisher.git`
-* `cd nexphisher`
+* `cd ransomephisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+#### > Run : `bash ransomephisher`
 
 ## Single Command For Termux:
 ```
